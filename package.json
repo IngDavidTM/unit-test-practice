@@ -1,0 +1,22 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngDavidTM/unit-test-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngDavidTM/unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/IngDavidTM/unit-test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
