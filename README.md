@@ -2,7 +2,7 @@
 
 # Unit Test Practice
 
-> These are the exercise to practice `jest`.
+> These are the exercises to practice `jest`.
 
 ## Built With
 
@@ -52,7 +52,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Thaks [@mshwery](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/) for the template.
 - Microverse
 
 ## 📝 License
